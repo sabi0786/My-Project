@@ -1,2 +1,3 @@
 # My-Project
-This is my first Repository
+
+Console based program on shop inventory in c++.
